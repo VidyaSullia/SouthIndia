@@ -7,4 +7,8 @@ public class Tamilnadu extends Kerala {
 		System.out.println("Tamil Language");
 
 	}
+public void add() {
+	System.out.println("A");
+
+}
 }
