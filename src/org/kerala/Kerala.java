@@ -7,4 +7,8 @@ public class Kerala extends AndhraPradesh {
 		System.out.println("Malayalam Language");
 
 	}
+	public void mal() {
+		System.out.println("Mala");
+
+	}
 }
