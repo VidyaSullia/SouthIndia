@@ -8,5 +8,4 @@ public class AndhraPradesh {
 		System.out.println("Kannada");
 
 	}
-
 }
